@@ -1,0 +1,14 @@
+
+.video{
+    height: 400px;
+    width: 900px;
+    padding: 10px;
+    margin: 5px;
+}
+iframe{
+    width: 70%;
+    height: 100%;
+    padding: 10px;
+    margin: 10px;
+}
+
